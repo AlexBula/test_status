@@ -3,10 +3,16 @@ owner: alexbula # Your GitHub organization or username, where this repository li
 repo: test_status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: IAM Unagi
     url: https://iam.europe-west3.unagi.dev02.nttclouds.co/healthz
+  - name: STG Smoke Tests
+    url: https://api.github.com/repos/cloudwan/qa/actions/workflows/25360914/runs?per_page=1&page=1&status=completed
+    headers:
+      - "Accept: application/vnd.github+json"
+      - "Authorization: Bearer $GH_PAT"
+    __dangerous__body_down_if_text_missing: '"status": "completed"'
+
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -15,12 +21,9 @@ status-website:
   baseUrl: /test_status
   logoUrl: https://raw.githubusercontent.com/AlexBula/test_status/master/assets/ntt.png
   apiBaseUrl: https://api.github.com
-  name: Test Status Page
-  introTitle: "**Test Status Page** build via upptime which is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Sample status page which uses **real-time** data. No server required — just GitHub Actions, Issues, and Pages.
-  navbar:
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  name: Edgelq Status Page
+  introTitle: "**About this site** ."
+  introMessage: The status page of the Edgelq Systems.
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
