@@ -1,23 +1,5 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 84,
-    "timeDay": 84,
-    "timeWeek": 84,
-    "timeMonth": 84,
-    "timeYear": 84,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "IAM Unagi",
     "url": "https://iam.europe-west3.unagi.dev02.nttclouds.co/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/iam.europe-west3.unagi.dev02.nttclouds.co.ico",
@@ -28,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 248,
-    "timeWeek": 248,
-    "timeMonth": 248,
-    "timeYear": 248,
+    "time": 238,
+    "timeDay": 192,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "STG Smoke Tests",
+    "url": "https://api.github.com/repos/cloudwan/qa/actions/workflows/25360914/runs?per_page=1&page=1&status=completed",
+    "icon": "https://icons.duckduckgo.com/ip3/api.github.com.ico",
+    "slug": "stg-smoke-tests",
+    "status": "down",
+    "uptime": "8.89%",
+    "uptimeDay": "8.89%",
+    "uptimeWeek": "8.89%",
+    "uptimeMonth": "8.89%",
+    "uptimeYear": "8.89%",
+    "time": 372,
+    "timeDay": 372,
+    "timeWeek": 372,
+    "timeMonth": 372,
+    "timeYear": 372,
+    "dailyMinutesDown": {
+      "2022-10-28": 0
+    }
   }
 ]
