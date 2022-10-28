@@ -7,10 +7,18 @@ sites:
     url: https://iam.europe-west3.unagi.dev02.nttclouds.co/healthz
   - name: STG Smoke Tests
     url: https://api.github.com/repos/cloudwan/qa/actions/workflows/25360914/runs?per_page=1&page=1&status=completed
+    method: GET
     headers:
       - "Accept: application/vnd.github+json"
       - "Authorization: Bearer $GH_PAT"
     __dangerous__body_down_if_text_missing: '"conclusion": "success"'
+  - name: Github Test
+    url: https://api.github.com/emojis
+    method: GET
+    headers:
+      - "Accept: application/vnd.github+json"
+      - "Authorization: Bearer $GH_PAT"
+    __dangerous__body_down_if_text_missing: '100'
 
 
 
