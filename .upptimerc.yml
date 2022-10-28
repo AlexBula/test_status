@@ -30,7 +30,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/AlexBula/test_status/master/assets/ntt.png
   apiBaseUrl: https://api.github.com
   name: Edgelq Status Page
-  introTitle: "**About this site** ."
+  introTitle: "**About this site**."
   introMessage: The status page of the Edgelq Systems.
 
 # Upptime also supports notifications, assigning issues, and more
