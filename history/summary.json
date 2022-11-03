@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/iam.europe-west3.unagi.dev02.nttclouds.co.ico",
     "slug": "iam-unagi",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "97.77%",
+    "uptimeDay": "83.78%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "97.77%",
+    "uptimeYear": "97.77%",
     "time": 253,
     "timeDay": 266,
     "timeWeek": 249,
     "timeMonth": 253,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2022-11-03": 10
+      "2022-11-03": 234
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://applications.europe-west3.unagi.dev02.nttclouds.co/diagnostics/v1alpha2:healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/applications.europe-west3.unagi.dev02.nttclouds.co.ico",
     "slug": "applications-unagi",
-    "status": "down",
-    "uptime": "98.48%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "98.48%",
-    "uptimeYear": "98.48%",
-    "time": 241,
-    "timeDay": 241,
-    "timeWeek": 241,
-    "timeMonth": 241,
-    "timeYear": 241,
+    "status": "up",
+    "uptime": "15.13%",
+    "uptimeDay": "15.13%",
+    "uptimeWeek": "15.13%",
+    "uptimeMonth": "15.13%",
+    "uptimeYear": "15.13%",
+    "time": 247,
+    "timeDay": 247,
+    "timeWeek": 247,
+    "timeMonth": 247,
+    "timeYear": 247,
     "dailyMinutesDown": {
-      "2022-11-03": 1
+      "2022-11-03": 225
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://devices.europe-west3.unagi.dev02.nttclouds.co/diagnostics/v1alpha2:healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/devices.europe-west3.unagi.dev02.nttclouds.co.ico",
     "slug": "devices-unagi",
-    "status": "down",
-    "uptime": "98.56%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "98.56%",
-    "uptimeYear": "98.56%",
-    "time": 227,
-    "timeDay": 227,
-    "timeWeek": 227,
-    "timeMonth": 227,
-    "timeYear": 227,
+    "status": "up",
+    "uptime": "15.12%",
+    "uptimeDay": "15.12%",
+    "uptimeWeek": "15.12%",
+    "uptimeMonth": "15.12%",
+    "uptimeYear": "15.12%",
+    "time": 232,
+    "timeDay": 232,
+    "timeWeek": 232,
+    "timeMonth": 232,
+    "timeYear": 232,
     "dailyMinutesDown": {
-      "2022-11-03": 1
+      "2022-11-03": 225
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://audit.europe-west3.unagi.dev02.nttclouds.co/diagnostics/v1alpha2:healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/audit.europe-west3.unagi.dev02.nttclouds.co.ico",
     "slug": "audit-unagi",
-    "status": "down",
-    "uptime": "98.68%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "98.68%",
-    "uptimeYear": "98.68%",
-    "time": 233,
-    "timeDay": 233,
-    "timeWeek": 233,
-    "timeMonth": 233,
-    "timeYear": 233,
+    "status": "up",
+    "uptime": "15.11%",
+    "uptimeDay": "15.11%",
+    "uptimeWeek": "15.11%",
+    "uptimeMonth": "15.11%",
+    "uptimeYear": "15.11%",
+    "time": 245,
+    "timeDay": 245,
+    "timeWeek": 245,
+    "timeMonth": 245,
+    "timeYear": 245,
     "dailyMinutesDown": {
-      "2022-11-03": 1
+      "2022-11-03": 225
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/limits.europe-west3.unagi.dev02.nttclouds.co.ico",
     "slug": "limits-unagi",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-03": 40
+      "2022-11-03": 265
     }
   },
   {
@@ -116,7 +116,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-03": 40
+      "2022-11-03": 265
     }
   },
   {
@@ -143,18 +143,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitoring.europe-west3.unagi.dev02.nttclouds.co.ico",
     "slug": "monitoring-unagi",
     "status": "down",
-    "uptime": "99.30%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.30%",
-    "uptimeYear": "99.30%",
+    "uptime": "15.12%",
+    "uptimeDay": "15.12%",
+    "uptimeWeek": "15.12%",
+    "uptimeMonth": "15.12%",
+    "uptimeYear": "15.12%",
     "time": 244,
     "timeDay": 244,
     "timeWeek": 244,
     "timeMonth": 244,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2022-11-03": 0
+      "2022-11-03": 225
     }
   },
   {
@@ -163,18 +163,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxies.europe-west3.unagi.dev02.nttclouds.co.ico",
     "slug": "proxies-unagi",
     "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
+    "uptime": "15.12%",
+    "uptimeDay": "15.12%",
+    "uptimeWeek": "15.12%",
+    "uptimeMonth": "15.12%",
+    "uptimeYear": "15.12%",
     "time": 202,
     "timeDay": 202,
     "timeWeek": 202,
     "timeMonth": 202,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2022-11-03": 0
+      "2022-11-03": 224
     }
   },
   {
@@ -183,18 +183,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/secrets.europe-west3.unagi.dev02.nttclouds.co.ico",
     "slug": "secrets-unagi",
     "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
+    "uptime": "15.15%",
+    "uptimeDay": "15.15%",
+    "uptimeWeek": "15.15%",
+    "uptimeMonth": "15.15%",
+    "uptimeYear": "15.15%",
     "time": 224,
     "timeDay": 224,
     "timeWeek": 224,
     "timeMonth": 224,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2022-11-03": 0
+      "2022-11-03": 224
     }
   },
   {
@@ -203,11 +203,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.github.com.ico",
     "slug": "stg-smoke-tests",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "2.54%",
+    "uptimeDay": "15.73%",
+    "uptimeWeek": "2.54%",
+    "uptimeMonth": "2.54%",
+    "uptimeYear": "2.54%",
     "time": 289,
     "timeDay": 320,
     "timeWeek": 289,
