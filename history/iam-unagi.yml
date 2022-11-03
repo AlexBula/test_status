@@ -1,7 +1,7 @@
 url: https://iam.europe-west3.unagi.dev02.nttclouds.co/diagnostics/v1alpha2:healthcheck
-status: up
-code: 200
-responseTime: 310
-lastUpdated: 2022-11-03T15:38:05.759Z
+status: down
+code: 503
+responseTime: 240
+lastUpdated: 2022-11-03T16:09:11.115Z
 startTime: Thu Oct 27 2022 13:23:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
