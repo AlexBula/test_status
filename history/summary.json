@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/applications.europe-west3.unagi.dev02.nttclouds.co.ico",
     "slug": "applications-unagi",
     "status": "up",
-    "uptime": "4.52%",
-    "uptimeDay": "4.52%",
-    "uptimeWeek": "4.52%",
-    "uptimeMonth": "4.52%",
-    "uptimeYear": "4.52%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 233,
     "timeDay": 233,
     "timeWeek": 233,
     "timeMonth": 233,
     "timeYear": 233,
-    "dailyMinutesDown": {
-      "2022-11-03": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Devices Unagi",
@@ -45,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/devices.europe-west3.unagi.dev02.nttclouds.co.ico",
     "slug": "devices-unagi",
     "status": "up",
-    "uptime": "3.89%",
-    "uptimeDay": "3.89%",
-    "uptimeWeek": "3.89%",
-    "uptimeMonth": "3.89%",
-    "uptimeYear": "3.89%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 214,
     "timeDay": 214,
     "timeWeek": 214,
     "timeMonth": 214,
     "timeYear": 214,
-    "dailyMinutesDown": {
-      "2022-11-03": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Audit Unagi",
@@ -65,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/audit.europe-west3.unagi.dev02.nttclouds.co.ico",
     "slug": "audit-unagi",
     "status": "up",
-    "uptime": "3.43%",
-    "uptimeDay": "3.43%",
-    "uptimeWeek": "3.43%",
-    "uptimeMonth": "3.43%",
-    "uptimeYear": "3.43%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 236,
     "timeDay": 236,
     "timeWeek": 236,
     "timeMonth": 236,
     "timeYear": 236,
-    "dailyMinutesDown": {
-      "2022-11-03": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Limits Unagi",
@@ -85,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/limits.europe-west3.unagi.dev02.nttclouds.co.ico",
     "slug": "limits-unagi",
     "status": "down",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -125,19 +119,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/meta.europe-west3.unagi.dev02.nttclouds.co.ico",
     "slug": "meta-unagi",
     "status": "up",
-    "uptime": "2.99%",
-    "uptimeDay": "2.99%",
-    "uptimeWeek": "2.99%",
-    "uptimeMonth": "2.99%",
-    "uptimeYear": "2.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 224,
     "timeDay": 224,
     "timeWeek": 224,
     "timeMonth": 224,
     "timeYear": 224,
-    "dailyMinutesDown": {
-      "2022-11-03": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Monitoring Unagi",
@@ -145,19 +137,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitoring.europe-west3.unagi.dev02.nttclouds.co.ico",
     "slug": "monitoring-unagi",
     "status": "up",
-    "uptime": "2.52%",
-    "uptimeDay": "2.52%",
-    "uptimeWeek": "2.52%",
-    "uptimeMonth": "2.52%",
-    "uptimeYear": "2.52%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 192,
     "timeDay": 192,
     "timeWeek": 192,
     "timeMonth": 192,
     "timeYear": 192,
-    "dailyMinutesDown": {
-      "2022-11-03": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Proxies Unagi",
@@ -165,19 +155,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxies.europe-west3.unagi.dev02.nttclouds.co.ico",
     "slug": "proxies-unagi",
     "status": "up",
-    "uptime": "2.23%",
-    "uptimeDay": "2.23%",
-    "uptimeWeek": "2.23%",
-    "uptimeMonth": "2.23%",
-    "uptimeYear": "2.23%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 206,
     "timeDay": 206,
     "timeWeek": 206,
     "timeMonth": 206,
     "timeYear": 206,
-    "dailyMinutesDown": {
-      "2022-11-03": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Secrets Unagi",
@@ -185,19 +173,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/secrets.europe-west3.unagi.dev02.nttclouds.co.ico",
     "slug": "secrets-unagi",
     "status": "up",
-    "uptime": "1.76%",
-    "uptimeDay": "1.76%",
-    "uptimeWeek": "1.76%",
-    "uptimeMonth": "1.76%",
-    "uptimeYear": "1.76%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 194,
     "timeDay": 194,
     "timeWeek": 194,
     "timeMonth": 194,
     "timeYear": 194,
-    "dailyMinutesDown": {
-      "2022-11-03": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "STG Smoke Tests",
