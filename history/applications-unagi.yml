@@ -1,7 +1,7 @@
 url: https://applications.europe-west3.unagi.dev02.nttclouds.co/diagnostics/v1alpha2:healthcheck
 status: up
 code: 200
-responseTime: 296
-lastUpdated: 2022-11-04T23:07:42.166Z
+responseTime: 145
+lastUpdated: 2022-11-05T23:06:30.337Z
 startTime: Thu Nov 03 2022 15:29:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
