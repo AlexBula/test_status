@@ -1,7 +1,7 @@
 url: https://logging.europe-west3.unagi.dev02.nttclouds.co/diagnostics/v1alpha2:healthcheck
 status: down
 code: 404
-responseTime: 258
-lastUpdated: 2022-11-14T23:06:12.043Z
+responseTime: 159
+lastUpdated: 2022-11-15T23:06:14.304Z
 startTime: Thu Nov 03 2022 15:29:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
