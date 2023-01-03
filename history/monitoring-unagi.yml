@@ -1,7 +1,7 @@
 url: https://monitoring.europe-west3.unagi.dev02.nttclouds.co/diagnostics/v1alpha2:healthcheck
 status: down
 code: 502
-responseTime: 243
-lastUpdated: 2023-01-02T23:04:11.985Z
+responseTime: 248
+lastUpdated: 2023-01-03T23:04:12.880Z
 startTime: Thu Nov 03 2022 15:29:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
