@@ -1,7 +1,7 @@
 url: https://devices.europe-west3.unagi.dev02.nttclouds.co/diagnostics/v1alpha2:healthcheck
 status: down
 code: 502
-responseTime: 228
-lastUpdated: 2023-01-03T23:04:09.052Z
+responseTime: 239
+lastUpdated: 2023-01-04T23:04:01.684Z
 startTime: Thu Nov 03 2022 15:29:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
