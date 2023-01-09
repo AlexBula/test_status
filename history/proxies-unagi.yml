@@ -1,7 +1,7 @@
 url: https://proxies.europe-west3.unagi.dev02.nttclouds.co/diagnostics/v1alpha2:healthcheck
 status: down
 code: 502
-responseTime: 152
-lastUpdated: 2023-01-08T23:04:05.659Z
+responseTime: 217
+lastUpdated: 2023-01-09T23:05:05.639Z
 startTime: Thu Nov 03 2022 15:29:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
